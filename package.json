@@ -1,0 +1,20 @@
+{
+  "name": "stalagmite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dynamite-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djna/stalagmite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djna/stalagmite/issues"
+  },
+  "homepage": "https://github.com/djna/stalagmite#readme"
+}
